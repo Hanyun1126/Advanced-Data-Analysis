@@ -1,7 +1,7 @@
 # Advanced-Data-Analysis
 This is a capstone project associated with Columbia University.
 
-# Introduction for this project
+## Introduction for this project
 For this project, we are trying to understand the customer personality. Customer personal-
 ity analysis is an essential tool that enables businesses to gain a closer insight of their ideal
 customers. By analyzing the specific needs and behaviors of different customer segments,
